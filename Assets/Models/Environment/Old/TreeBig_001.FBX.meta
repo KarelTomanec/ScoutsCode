@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 459ca09992bc97849b576132b631acee
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Branch_001
+    100002: Cylinder010
+    100004: Cylinder012
+    100006: Cylinder013
+    100008: Cylinder014
+    100010: Cylinder015
+    100012: Cylinder016
+    100014: GeoSphere013
+    100016: GeoSphere014
+    100018: GeoSphere015
+    100020: GeoSphere016
+    100022: GeoSphere017
+    100024: GeoSphere018
+    100026: GeoSphere019
+    100028: GeoSphere020
+    100030: GeoSphere021
+    100032: GeoSphere022
+    100034: GeoSphere023
+    100036: GeoSphere024
+    100038: GeoSphere025
+    100040: GeoSphere026
+    100042: GeoSphere027
+    100044: GeoSphere028
+    100046: GeoSphere029
+    100048: GeoSphere030
+    100050: GeoSphere031
+    100052: GeoSphere032
+    100054: GeoSphere033
+    100056: GeoSphere034
+    100058: //RootNode
+    100060: TreeBig_001 1
+    100062: TreeBig_002
+    100064: TreeBig_003
+    100066: TreeBig_004
+    100068: TreeTrunk_001
+    100070: TreeTrunk_002
+    100072: TreeTrunk_003
+    100074: Trunk003
+    100076: Trunk004
+    400000: Branch_001
+    400002: Cylinder010
+    400004: Cylinder012
+    400006: Cylinder013
+    400008: Cylinder014
+    400010: Cylinder015
+    400012: Cylinder016
+    400014: GeoSphere013
+    400016: GeoSphere014
+    400018: GeoSphere015
+    400020: GeoSphere016
+    400022: GeoSphere017
+    400024: GeoSphere018
+    400026: GeoSphere019
+    400028: GeoSphere020
+    400030: GeoSphere021
+    400032: GeoSphere022
+    400034: GeoSphere023
+    400036: GeoSphere024
+    400038: GeoSphere025
+    400040: GeoSphere026
+    400042: GeoSphere027
+    400044: GeoSphere028
+    400046: GeoSphere029
+    400048: GeoSphere030
+    400050: GeoSphere031
+    400052: GeoSphere032
+    400054: GeoSphere033
+    400056: GeoSphere034
+    400058: //RootNode
+    400060: TreeBig_001 1
+    400062: TreeBig_002
+    400064: TreeBig_003
+    400066: TreeBig_004
+    400068: TreeTrunk_001
+    400070: TreeTrunk_002
+    400072: TreeTrunk_003
+    400074: Trunk003
+    400076: Trunk004
+    2100000: 07 - Default
+    2100002: Leaves
+    2100004: 03 - Default
+    2100006: 20 - Default
+    2100008: Grass002
+    2300000: Cylinder010
+    2300002: Cylinder012
+    2300004: Cylinder013
+    2300006: Cylinder014
+    2300008: Cylinder015
+    2300010: Cylinder016
+    2300012: GeoSphere013
+    2300014: GeoSphere014
+    2300016: GeoSphere015
+    2300018: GeoSphere016
+    2300020: GeoSphere017
+    2300022: GeoSphere018
+    2300024: GeoSphere019
+    2300026: GeoSphere020
+    2300028: GeoSphere021
+    2300030: GeoSphere022
+    2300032: GeoSphere023
+    2300034: GeoSphere024
+    2300036: GeoSphere025
+    2300038: GeoSphere026
+    2300040: GeoSphere027
+    2300042: GeoSphere028
+    2300044: GeoSphere029
+    2300046: GeoSphere030
+    2300048: GeoSphere031
+    2300050: GeoSphere032
+    2300052: GeoSphere033
+    2300054: GeoSphere034
+    2300056: Trunk003
+    2300058: Trunk004
+    3300000: Cylinder010
+    3300002: Cylinder012
+    3300004: Cylinder013
+    3300006: Cylinder014
+    3300008: Cylinder015
+    3300010: Cylinder016
+    3300012: GeoSphere013
+    3300014: GeoSphere014
+    3300016: GeoSphere015
+    3300018: GeoSphere016
+    3300020: GeoSphere017
+    3300022: GeoSphere018
+    3300024: GeoSphere019
+    3300026: GeoSphere020
+    3300028: GeoSphere021
+    3300030: GeoSphere022
+    3300032: GeoSphere023
+    3300034: GeoSphere024
+    3300036: GeoSphere025
+    3300038: GeoSphere026
+    3300040: GeoSphere027
+    3300042: GeoSphere028
+    3300044: GeoSphere029
+    3300046: GeoSphere030
+    3300048: GeoSphere031
+    3300050: GeoSphere032
+    3300052: GeoSphere033
+    3300054: GeoSphere034
+    3300056: Trunk003
+    3300058: Trunk004
+    4300000: GeoSphere020
+    4300002: GeoSphere021
+    4300004: GeoSphere030
+    4300006: GeoSphere031
+    4300008: GeoSphere032
+    4300010: GeoSphere033
+    4300012: GeoSphere034
+    4300014: Trunk003
+    4300016: Cylinder012
+    4300018: Cylinder010
+    4300020: Cylinder015
+    4300022: Cylinder013
+    4300024: Trunk004
+    4300026: Cylinder014
+    4300028: Cylinder016
+    4300030: GeoSphere025
+    4300032: GeoSphere026
+    4300034: GeoSphere027
+    4300036: GeoSphere028
+    4300038: GeoSphere029
+    4300040: GeoSphere016
+    4300042: GeoSphere022
+    4300044: GeoSphere019
+    4300046: GeoSphere014
+    4300048: GeoSphere024
+    4300050: GeoSphere023
+    4300052: GeoSphere013
+    4300054: GeoSphere018
+    4300056: GeoSphere017
+    4300058: GeoSphere015
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

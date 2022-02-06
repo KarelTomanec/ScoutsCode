@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: e39e1a51ecadc6f4eaf73b388c3f959a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Campfire
+    100002: Campfire 1
+    100004: //RootNode
+    100006: Cylinder023
+    100008: Cylinder024
+    100010: Cylinder025
+    100012: Cylinder026
+    100014: Cylinder027
+    100016: Cylinder029
+    100018: Cylinder030
+    100020: Cylinder031
+    100022: Cylinder032
+    100024: Fireplace
+    100026: GeoSphere063
+    100028: GeoSphere064
+    100030: GeoSphere065
+    100032: GeoSphere066
+    100034: GeoSphere067
+    100036: GeoSphere068
+    100038: GeoSphere069
+    100040: GeoSphere070
+    100042: GeoSphere071
+    100044: GeoSphere072
+    100046: GeoSphere073
+    100048: GeoSphere074
+    100050: TentSticks001
+    400000: Campfire
+    400002: Campfire 1
+    400004: //RootNode
+    400006: Cylinder023
+    400008: Cylinder024
+    400010: Cylinder025
+    400012: Cylinder026
+    400014: Cylinder027
+    400016: Cylinder029
+    400018: Cylinder030
+    400020: Cylinder031
+    400022: Cylinder032
+    400024: Fireplace
+    400026: GeoSphere063
+    400028: GeoSphere064
+    400030: GeoSphere065
+    400032: GeoSphere066
+    400034: GeoSphere067
+    400036: GeoSphere068
+    400038: GeoSphere069
+    400040: GeoSphere070
+    400042: GeoSphere071
+    400044: GeoSphere072
+    400046: GeoSphere073
+    400048: GeoSphere074
+    400050: TentSticks001
+    2100000: No Name
+    2100002: 22 - Default
+    2100004: 16 - Default
+    2300000: Campfire 1
+    2300002: Cylinder023
+    2300004: Cylinder024
+    2300006: Cylinder025
+    2300008: Cylinder026
+    2300010: Cylinder027
+    2300012: Cylinder029
+    2300014: Cylinder030
+    2300016: Cylinder031
+    2300018: Cylinder032
+    2300020: GeoSphere063
+    2300022: GeoSphere064
+    2300024: GeoSphere065
+    2300026: GeoSphere066
+    2300028: GeoSphere067
+    2300030: GeoSphere068
+    2300032: GeoSphere069
+    2300034: GeoSphere070
+    2300036: GeoSphere071
+    2300038: GeoSphere072
+    2300040: GeoSphere073
+    2300042: GeoSphere074
+    3300000: Campfire 1
+    3300002: Cylinder023
+    3300004: Cylinder024
+    3300006: Cylinder025
+    3300008: Cylinder026
+    3300010: Cylinder027
+    3300012: Cylinder029
+    3300014: Cylinder030
+    3300016: Cylinder031
+    3300018: Cylinder032
+    3300020: GeoSphere063
+    3300022: GeoSphere064
+    3300024: GeoSphere065
+    3300026: GeoSphere066
+    3300028: GeoSphere067
+    3300030: GeoSphere068
+    3300032: GeoSphere069
+    3300034: GeoSphere070
+    3300036: GeoSphere071
+    3300038: GeoSphere072
+    3300040: GeoSphere073
+    3300042: GeoSphere074
+    4300000: GeoSphere070
+    4300002: GeoSphere073
+    4300004: GeoSphere072
+    4300006: GeoSphere069
+    4300008: GeoSphere074
+    4300010: GeoSphere071
+    4300012: GeoSphere066
+    4300014: GeoSphere063
+    4300016: GeoSphere064
+    4300018: GeoSphere068
+    4300020: GeoSphere067
+    4300022: GeoSphere065
+    4300024: Campfire
+    4300026: Cylinder029
+    4300028: Cylinder030
+    4300030: Cylinder031
+    4300032: Cylinder032
+    4300034: Cylinder026
+    4300036: Cylinder023
+    4300038: Cylinder024
+    4300040: Cylinder025
+    4300042: Cylinder027
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

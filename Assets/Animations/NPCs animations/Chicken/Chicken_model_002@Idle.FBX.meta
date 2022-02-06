@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 929b016bb32ce0948baffbee0338bb3f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CATRigLLeg1
+    100002: CATRigLLeg2
+    100004: CATRigLLegAnkle
+    100006: CATRigPelvis
+    100008: CATRigPelvis001
+    100010: CATRigPelvis002
+    100012: CATRigRLeg1
+    100014: CATRigRLeg2
+    100016: CATRigRLegAnkle
+    100018: CATRigSpine
+    100020: CATRigSpine1
+    100022: CATRigSpine2
+    100024: CATRigSpine3
+    100026: CATRigSpine4
+    100028: CATRigSpine5
+    100030: CATRigTail1
+    100032: Chicken
+    100034: //RootNode
+    400000: CATRigLLeg1
+    400002: CATRigLLeg2
+    400004: CATRigLLegAnkle
+    400006: CATRigPelvis
+    400008: CATRigPelvis001
+    400010: CATRigPelvis002
+    400012: CATRigRLeg1
+    400014: CATRigRLeg2
+    400016: CATRigRLegAnkle
+    400018: CATRigSpine
+    400020: CATRigSpine1
+    400022: CATRigSpine2
+    400024: CATRigSpine3
+    400026: CATRigSpine4
+    400028: CATRigSpine5
+    400030: CATRigTail1
+    400032: Chicken
+    400034: //RootNode
+    2100000: 08 - Default
+    2100002: 09 - Default
+    2100004: 14 - Default
+    4300000: Chicken
+    7400000: Chicken_Idle
+    9500000: //RootNode
+    13700000: Chicken
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Chicken_Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.099999994
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 38175d6952c576f4da23f4717931542b,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

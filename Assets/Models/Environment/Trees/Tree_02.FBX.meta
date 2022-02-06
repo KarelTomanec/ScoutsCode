@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: c43e9e8a2e47c024e8e4659eccc61812
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Leaves_00
+    100002: Leaves_01
+    100004: Leaves_02
+    100006: Leaves_03
+    100008: Leaves_04
+    100010: Leaves_05
+    100012: Leaves_06
+    100014: Leaves_07
+    100016: Leaves_08
+    100018: Leaves_09
+    100020: Leaves_10
+    100022: Leaves_11
+    100024: Leaves_12
+    100026: Leaves_13
+    100028: Leaves_14
+    100030: Leaves_15
+    100032: Leaves_16
+    100034: Leaves_17
+    100036: Leaves_18
+    100038: Leaves_19
+    100040: Leaves_20
+    100042: Leaves_21
+    100044: //RootNode
+    100046: Trunk
+    400000: Leaves_00
+    400002: Leaves_01
+    400004: Leaves_02
+    400006: Leaves_03
+    400008: Leaves_04
+    400010: Leaves_05
+    400012: Leaves_06
+    400014: Leaves_07
+    400016: Leaves_08
+    400018: Leaves_09
+    400020: Leaves_10
+    400022: Leaves_11
+    400024: Leaves_12
+    400026: Leaves_13
+    400028: Leaves_14
+    400030: Leaves_15
+    400032: Leaves_16
+    400034: Leaves_17
+    400036: Leaves_18
+    400038: Leaves_19
+    400040: Leaves_20
+    400042: Leaves_21
+    400044: //RootNode
+    400046: Trunk
+    2100000: Grass002
+    2100002: Leaves
+    2100004: 07 - Default
+    2100006: 03 - Default
+    2100008: 20 - Default
+    2300000: Leaves_00
+    2300002: Leaves_01
+    2300004: Leaves_02
+    2300006: Leaves_03
+    2300008: Leaves_04
+    2300010: Leaves_05
+    2300012: Leaves_06
+    2300014: Leaves_07
+    2300016: Leaves_08
+    2300018: Leaves_09
+    2300020: Leaves_10
+    2300022: Leaves_11
+    2300024: Leaves_12
+    2300026: Leaves_13
+    2300028: Leaves_14
+    2300030: Leaves_15
+    2300032: Leaves_16
+    2300034: Leaves_17
+    2300036: Leaves_18
+    2300038: Leaves_19
+    2300040: Leaves_20
+    2300042: Leaves_21
+    2300044: Trunk
+    3300000: Leaves_00
+    3300002: Leaves_01
+    3300004: Leaves_02
+    3300006: Leaves_03
+    3300008: Leaves_04
+    3300010: Leaves_05
+    3300012: Leaves_06
+    3300014: Leaves_07
+    3300016: Leaves_08
+    3300018: Leaves_09
+    3300020: Leaves_10
+    3300022: Leaves_11
+    3300024: Leaves_12
+    3300026: Leaves_13
+    3300028: Leaves_14
+    3300030: Leaves_15
+    3300032: Leaves_16
+    3300034: Leaves_17
+    3300036: Leaves_18
+    3300038: Leaves_19
+    3300040: Leaves_20
+    3300042: Leaves_21
+    3300044: Trunk
+    4300000: Leaves_00
+    4300002: Leaves_01
+    4300004: Leaves_02
+    4300006: Leaves_03
+    4300008: Leaves_04
+    4300010: Leaves_05
+    4300012: Leaves_06
+    4300014: Leaves_07
+    4300016: Leaves_08
+    4300018: Leaves_09
+    4300020: Leaves_10
+    4300022: Leaves_11
+    4300024: Leaves_12
+    4300026: Leaves_13
+    4300028: Leaves_14
+    4300030: Leaves_15
+    4300032: Leaves_16
+    4300034: Leaves_17
+    4300036: Leaves_18
+    4300038: Leaves_19
+    4300040: Leaves_20
+    4300042: Leaves_21
+    4300044: Trunk
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
