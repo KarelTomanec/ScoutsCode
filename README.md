@@ -6,19 +6,22 @@ Quick local cooperative arcade game, where you take care of your forest and its 
 ## Authors
 | Name          | Email           | Role  |
 | ------------- |:-------------| :-----|
-| Vojtěch Pospíšil      | <pospivo1@fel.cvut.cz> | Programmer |
-| Karel Tomanec      | <tomanka4@fel.cvut.cz>      |   Programmer |
-| Jan Lazarek |  <lazarjan@fel.cvut.cz>      |    Team Leader |
-| Alena Mikushina | <mikusale@fel.cvut.cz>      |    Graphics designer |
+| Vojtěch Pospíšil      | <pospisil98@gmail.com> | Programmer |
+| Karel Tomanec      | <karel.tomanec@gmail.com>      |   Programmer |
+| Alena Mikushina | <mikusale@fel.cvut.cz>      |    Graphics Designer |
+| Jan Lazarek |  <lazarjan@fel.cvut.cz>      |    Graphics Designer |
 
 ## Game
-<https://cent.felk.cvut.cz/predmety/39PHA/archives/2018-2019/team08/web-bin/index.html>
+<Web-player>(https://cent.felk.cvut.cz/predmety/39PHA/archives/2018-2019/team08/web-bin/index.html)
 
+## Trailer
+<Scout's Code trailer>(https://cent.felk.cvut.cz/predmety/39PHA/archives/2018-2019/team08/media/trailer.mp4)
+  
 ## Examples 
 
-![screenshot1](/Images/screenshot1.PNG)
+![screenshot1](/Images/screenshot1.png)
 
-![screenshot2](/Images/screenshot2.PNG)
+![screenshot2](/Images/screenshot2.png)
 
-![screenshot3](/Images/screenshot3.PNG)
+![screenshot3](/Images/screenshot3.png)
 
