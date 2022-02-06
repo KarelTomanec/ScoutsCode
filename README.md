@@ -8,7 +8,7 @@ Quick local cooperative arcade game, where you take care of your forest and its 
 | ------------- |:-------------| :-----|
 | Vojtěch Pospíšil      | <pospisil98@gmail.com> | Programmer |
 | Karel Tomanec      | <karel.tomanec@gmail.com>      |   Programmer |
-| Alena Mikushina | <mikusale@fel.cvut.cz>      |    Graphics Designer |
+| Alen Mikushina | <mikusale@fel.cvut.cz>      |    Graphics Designer |
 | Jan Lazarek |  <lazarjan@fel.cvut.cz>      |    Graphics Designer |
 
 ## Game
