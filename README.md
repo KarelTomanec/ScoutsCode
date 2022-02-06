@@ -12,10 +12,10 @@ Quick local cooperative arcade game, where you take care of your forest and its 
 | Jan Lazarek |  <lazarjan@fel.cvut.cz>      |    Graphics Designer |
 
 ## Game
-<Web-player>(https://cent.felk.cvut.cz/predmety/39PHA/archives/2018-2019/team08/web-bin/index.html)
+[Web-player](https://cent.felk.cvut.cz/predmety/39PHA/archives/2018-2019/team08/web-bin/index.html)
 
 ## Trailer
-<Scout's Code trailer>(https://cent.felk.cvut.cz/predmety/39PHA/archives/2018-2019/team08/media/trailer.mp4)
+[Scout's Code trailer](https://cent.felk.cvut.cz/predmety/39PHA/archives/2018-2019/team08/media/trailer.mp4)
   
 ## Examples 
 
